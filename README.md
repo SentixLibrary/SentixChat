@@ -1,4 +1,1 @@
-
-// THE PROJECT IS UNTER MAINTAINCE!
-
-/// TRY AGAIN
+*** SentixLibrary - Chat Software
